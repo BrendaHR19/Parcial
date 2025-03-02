@@ -10,12 +10,17 @@
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
      <link rel = "stylesheet" href="style.css">
-     <div id = "button_container">
-        <button id = "btn_trees">Arboles</button>
-     </div>
+     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.25/jspdf.plugin.autotable.min.js"></script>
 </head>
 <body>
     <div id="map"></div>
+    <div id = "button_container">
+        <button class = "buttons" id = "btn_trees">Arboles</button>
+        <button class = "buttons" id = "btn_distance">Distancia</button>
+        <button class = "buttons" id = "btn_accidents">Siniestros Viales</button>
+    </div>
 </body>
 <script src = "program.js"></script>
 </html>

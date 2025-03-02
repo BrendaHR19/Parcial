@@ -31,3 +31,21 @@ Crear el bounding box del barrio
 
 # Problema 8
 Descargar datos filtrados desde la API(servicio REST)
+
+# Problema 9
+Añadir los datos de los árboles y generar un botón que los muestre
+
+# Problema 10
+Generar un segundo botón que calcule las distancias
+
+# Problema 11
+Importar los resultados de las distrancias a un pdf
+
+# Problema 12 
+Encontrar geoJSON de incidentes policiales o similares, se toma la información de los siniestros en Bogotá "Historico Siniestros Bogotá D.C"
+
+# Problema 13:
+Descargar la capa de siniestros viales filtrada desde la API
+
+# Problema 9
+Añadir los datos de los siniestros viales y generar un botón que los muestre
